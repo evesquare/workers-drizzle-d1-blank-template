@@ -18,8 +18,6 @@
 	},
 	"dependencies": {
 		"@radix-ui/react-slot": "^1.1.2",
-		"better-auth": "^1.2.4",
-		"better-sqlite3": "^11.9.1",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
 		"drizzle-orm": "^0.41.0",
@@ -49,7 +47,6 @@
 	},
 	"pnpm": {
 		"ignoredBuiltDependencies": [
-			"better-sqlite3",
 			"esbuild",
 			"sharp",
 			"workerd"
